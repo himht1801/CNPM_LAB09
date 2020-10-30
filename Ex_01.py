@@ -10,7 +10,7 @@ def power_2_iternative(k):
     return result
 
 k = 4
-print('2^', k, ' = ',power_2_iternative(4))
+print('2^', k, ' = ',power_2_iternative(4))cádsadsa
 
 
 #hello
